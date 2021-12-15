@@ -11,8 +11,6 @@ namespace MVC5_project.Controllers
         public ActionResult Index()
         {
             return View();
-
-
         }
 
         public ActionResult About()
